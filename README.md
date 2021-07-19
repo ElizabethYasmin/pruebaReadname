@@ -19,7 +19,7 @@ Buscaremos un compilador del lenguaje C++, por ejemplo devc++, Visual Studio Cod
 
 ## Ejecutando las pruebas ⚙️
 
-_Ingresaremos al archibo cpp **main.cpp** e iniciaremos la ejecucion _
+_Ingresaremos al archibo cpp **main.cpp** e iniciaremos la ejecucion._
 
 ---
 
