@@ -28,7 +28,7 @@ _Ingresaremos al archibo cpp **main.cpp** e iniciaremos la ejecucion._
 - [x] Luisa Guerrero
 - [ ] https://github.com/
 - [x] Elizabeth Huanca Parqui
-- [ ] - [x] https://github.com/
+- [ ] https://github.com/
 
 ## Expresiones de Gratitud 🎁
 
