@@ -1,10 +1,9 @@
-# EARLY PARSER FOR GRAMMARS WITH CONTEXT :shipit::octocat:
+# EARLY PARSER FOR GRAMMARS WITH CONTEXT :shipit:
 
 _Analisis de una gramatica dependiente del context, proyecto de Analisis y diseño de algortimos_
 
 
-
-## Comenzando :shipit:
+## Comenzando 👾
 
 _Instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
