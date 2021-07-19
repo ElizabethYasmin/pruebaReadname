@@ -26,7 +26,7 @@ _Ingresaremos al archibo cpp **main.cpp** e iniciaremos la ejecucion._
 
 ### COLABORADORES 🔩
 
-- [x] Luisa Guerrero
+- [x] Luisa Villanueva Guerrero
 - [ ] https://github.com/
 - [x] Elizabeth Huanca Parqui
 - [ ] https://github.com/
